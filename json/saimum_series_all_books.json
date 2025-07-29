@@ -1,0 +1,141 @@
+{
+  "books": [
+    {
+      "id": "saimum_01",
+      "name": "অপারেশন তেলআবিব-১",
+      "writer": "আবুল আসাদ",
+      "cover": "assets/covers/saimum_01.jpg",
+      "json_key": "saimum_01",
+      "category": "featured"
+    },
+    {
+      "id": "saimum_02",
+      "name": "অপারেশন তেলআবিব-২",
+      "writer": "আবুল আসাদ",
+      "cover": "assets/covers/saimum_02.jpg",
+      "json_key": "saimum_02",
+      "category": "featured"
+    },
+    {
+      "id": "saimum_03",
+      "name": "মিন্দানাওয়ের বন্দী",
+      "writer": "আবুল আসাদ",
+      "cover": "assets/covers/saimum_03.jpg",
+      "json_key": "saimum_03",
+      "category": "featured"
+    },
+    {
+      "id": "saimum_04",
+      "name": "পামিরের আর্তনাদ",
+      "writer": "আবুল আসাদ",
+      "cover": "assets/covers/saimum_04.jpg",
+      "json_key": "saimum_04",
+      "category": "featured"
+    },
+    {
+      "id": "saimum_05",
+      "name": "রক্তাক্ত পামির",
+      "writer": "আবুল আসাদ",
+      "cover": "assets/covers/saimum_05.jpg",
+      "json_key": "saimum_05",
+      "category": "featured"
+    },
+    {
+      "id": "saimum_06",
+      "name": "রক্ত সাগর পেরিয়ে",
+      "writer": "আবুল আসাদ",
+      "cover": "assets/covers/saimum_06.jpg",
+      "json_key": "saimum_06",
+      "category": "featured"
+    },
+
+    {
+      "id": "saimum_07",
+      "name": "তিয়েন শানের ওপারে",
+      "writer": "আবুল আসাদ",
+      "cover": "assets/covers/saimum_18.jpg",
+      "json_key": "saimum_07",
+      "category": "normal"
+    },
+    {
+      "id": "saimum_08",
+      "name": "সিংকিয়াং থেকে ককেশাস",
+      "writer": "আবুল আসাদ",
+      "cover": "assets/covers/saimum_18.jpg",
+      "json_key": "saimum_08",
+      "category": "normal"
+    },
+    {
+      "id": "saimum_09",
+      "name": "ককেশাসের পাহাড়ে",
+      "writer": "আবুল আসাদ",
+      "cover": "assets/covers/saimum_18.jpg",
+      "json_key": "saimum_09",
+      "category": "normal"
+    },
+    {
+      "id": "saimum_10",
+      "name": "বলকানের কান্না",
+      "writer": "আবুল আসাদ",
+      "cover": "assets/covers/saimum_18.jpg",
+      "json_key": "saimum_10",
+      "category": "normal"
+    },
+    {
+      "id": "saimum_11",
+      "name": "দানিয়ুবের দেশে",
+      "writer": "আবুল আসাদ",
+      "cover": "assets/covers/saimum_18.jpg",
+      "json_key": "saimum_11",
+      "category": "normal"
+    },
+    {
+      "id": "saimum_12",
+      "name": "কর্ডোভার অশ্রু",
+      "writer": "আবুল আসাদ",
+      "cover": "assets/covers/saimum_18.jpg",
+      "json_key": "saimum_12",
+      "category": "normal"
+    },
+    {
+      "id": "saimum_13",
+      "name": "আন্দালুসিয়ার প্রান্তরে",
+      "writer": "আবুল আসাদ",
+      "cover": "assets/covers/saimum_18.jpg",
+      "json_key": "saimum_13",
+      "category": "normal"
+    },
+    {
+      "id": "saimum_14",
+      "name": "গোয়াদেলকুইভারে নতুন স্রোত",
+      "writer": "আবুল আসাদ",
+      "cover": "assets/covers/saimum_18.jpg",
+      "json_key": "saimum_14",
+      "category": "normal"
+    },
+    {
+      "id": "saimum_15",
+      "name": "আবার সিংকিয়াং",
+      "writer": "আবুল আসাদ",
+      "cover": "assets/covers/saimum_18.jpg",
+      "json_key": "saimum_15",
+      "category": "normal"
+    },
+    {
+      "id": "saimum_16",
+      "name": "মধ্য এশিয়ায় কালোমেঘ",
+      "writer": "আবুল আসাদ",
+      "cover": "assets/covers/saimum_18.jpg",
+      "json_key": "saimum_16",
+      "category": "normal"
+    },
+    {
+      "id": "saimum_25",
+      "name": "আটলান্টিকের ওপারে",
+      "writer": "আবুল আসাদ",
+      "cover": "assets/covers/saimum_15.jpg",
+      "json_key": "saimum_15",
+      "category": "normal"
+    }
+  ]
+}
