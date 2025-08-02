@@ -6,7 +6,8 @@
       "writer": "আবুল আসাদ",
       "cover": "https://cdn.jsdelivr.net/gh/sagor2315/saimum-assets/book_covers/book_cover1%20copy.webp",
       "book_json_data": "https://cdn.jsdelivr.net/gh/sagor2315/saimum-assets/json/books/Operation_telabib_full.json",
-      "category": "featured"
+      "category": "featured",
+      "total_chapters": "১২"
     },
     {
       "id": "saimum_02",
@@ -14,7 +15,8 @@
       "writer": "আবুল আসাদ",
       "cover": "https://cdn.jsdelivr.net/gh/sagor2315/saimum-assets/book_covers/book_cover2.webp",
       "book_json_data": "https://cdn.jsdelivr.net/gh/sagor2315/saimum-assets/json/books/operation_tel_abib2.json",
-      "category": "featured"
+      "category": "featured",
+      "total_chapters": "১৫"
     },
     {
       "id": "saimum_03",
@@ -22,7 +24,8 @@
       "writer": "আবুল আসাদ",
       "cover": "https://cdn.jsdelivr.net/gh/sagor2315/saimum-assets/book_covers/book_cover3.webp",
       "book_json_data": "https://cdn.jsdelivr.net/gh/sagor2315/saimum-assets/json/books/mindanaoyer_bondi.json",
-      "category": "featured"
+      "category": "featured",
+      "total_chapters": "১১"
     },
     {
       "id": "saimum_04",
@@ -30,7 +33,8 @@
       "writer": "আবুল আসাদ",
       "cover": "https://cdn.jsdelivr.net/gh/sagor2315/saimum-assets/book_covers/book_cover4.webp",
       "book_json_data": "https://cdn.jsdelivr.net/gh/sagor2315/saimum-assets/json/books/pamirer_artonad.json",
-      "category": "featured"
+      "category": "featured",
+      "total_chapters": "০৮"
     },
     {
       "id": "saimum_05",
@@ -38,7 +42,8 @@
       "writer": "আবুল আসাদ",
       "cover": "https://cdn.jsdelivr.net/gh/sagor2315/saimum-assets/book_covers/book_cover5.webp",
       "book_json_data": "https://cdn.jsdelivr.net/gh/sagor2315/saimum-assets/json/books/roktakto_pamir.json",
-      "category": "featured"
+      "category": "featured",
+      "total_chapters": "০৮"
     },
     {
       "id": "saimum_06",
@@ -46,7 +51,8 @@
       "writer": "আবুল আসাদ",
       "cover": "https://cdn.jsdelivr.net/gh/sagor2315/saimum-assets/book_covers/book_cover6.webp",
       "book_json_data": "https://cdn.jsdelivr.net/gh/sagor2315/saimum-assets/json/books/rokto_sagor_pariye.json",
-      "category": "featured"
+      "category": "featured",
+      "total_chapters": "০৮"
     },
     {
       "id": "saimum_07",
@@ -54,7 +60,8 @@
       "writer": "আবুল আসাদ",
       "cover": "https://cdn.jsdelivr.net/gh/sagor2315/saimum-assets/book_covers/book_cover7.webp",
       "book_json_data": "https://cdn.jsdelivr.net/gh/sagor2315/saimum-assets/json/books/tiyen_shaner_opare.json",
-      "category": "normal"
+      "category": "normal",
+      "total_chapters": "০৮"
     },
     {
       "id": "saimum_08",
@@ -62,7 +69,8 @@
       "writer": "আবুল আসাদ",
       "cover": "https://cdn.jsdelivr.net/gh/sagor2315/saimum-assets/book_covers/book_cover8.webp",
       "book_json_data": "https://cdn.jsdelivr.net/gh/sagor2315/saimum-assets/json/books/singkiyang_theke_kokeshak.json",
-      "category": "normal"
+      "category": "normal",
+      "total_chapters": "০৭"
     },
     {
       "id": "saimum_09",
@@ -70,7 +78,8 @@
       "writer": "আবুল আসাদ",
       "cover": "https://cdn.jsdelivr.net/gh/sagor2315/saimum-assets/book_covers/book_cover9.webp",
       "book_json_data": "https://cdn.jsdelivr.net/gh/sagor2315/saimum-assets/json/books/kokeshasher_pahare.json",
-      "category": "normal"
+      "category": "normal",
+      "total_chapters": "০৭"
     },
     {
       "id": "saimum_10",
@@ -78,7 +87,8 @@
       "writer": "আবুল আসাদ",
       "cover": "https://cdn.jsdelivr.net/gh/sagor2315/saimum-assets/book_covers/book_cover10.webp",
       "book_json_data": "https://cdn.jsdelivr.net/gh/sagor2315/saimum-assets/json/books/bolkaner_kanna.json",
-      "category": "normal"
+      "category": "normal",
+      "total_chapters": "০৭"
     },
     {
       "id": "saimum_11",
@@ -86,7 +96,8 @@
       "writer": "আবুল আসাদ",
       "cover": "https://cdn.jsdelivr.net/gh/sagor2315/saimum-assets/book_covers/book_cover11.webp",
       "book_json_data": "https://cdn.jsdelivr.net/gh/sagor2315/saimum-assets/json/books/daniuber_deshe.json",
-      "category": "normal"
+      "category": "normal",
+      "total_chapters": "০৭"
     },
     {
       "id": "saimum_12",
@@ -94,7 +105,8 @@
       "writer": "আবুল আসাদ",
       "cover": "https://cdn.jsdelivr.net/gh/sagor2315/saimum-assets/book_covers/book_cover12.webp",
       "book_json_data": "https://cdn.jsdelivr.net/gh/sagor2315/saimum-assets/json/books/kordovar_ochru.json",
-      "category": "normal"
+      "category": "normal",
+      "total_chapters": "০৬"
     },
     {
       "id": "saimum_13",
@@ -102,7 +114,8 @@
       "writer": "আবুল আসাদ",
       "cover": "https://cdn.jsdelivr.net/gh/sagor2315/saimum-assets/book_covers/book_cover13.webp",
       "book_json_data": "https://cdn.jsdelivr.net/gh/sagor2315/saimum-assets/json/books/andaluchiyar_prantore.json",
-      "category": "normal"
+      "category": "normal",
+      "total_chapters": "০৫"
     },
     {
       "id": "saimum_14",
@@ -110,7 +123,8 @@
       "writer": "আবুল আসাদ",
       "cover": "https://cdn.jsdelivr.net/gh/sagor2315/saimum-assets/book_covers/book_cover14.webp",
       "book_json_data": "https://cdn.jsdelivr.net/gh/sagor2315/saimum-assets/json/books/goyadelkuivare_notun_srot.json",
-      "category": "normal"
+      "category": "normal",
+      "total_chapters": "০৭"
     },
     {
       "id": "saimum_15",
@@ -118,7 +132,8 @@
       "writer": "আবুল আসাদ",
       "cover": "https://cdn.jsdelivr.net/gh/sagor2315/saimum-assets/book_covers/book_cover15.webp",
       "book_json_data": "https://cdn.jsdelivr.net/gh/sagor2315/saimum-assets/json/books/abar_singkiyang.json",
-      "category": "normal"
+      "category": "normal",
+      "total_chapters": "০৬"
     },
     {
       "id": "saimum_16",
@@ -126,7 +141,8 @@
       "writer": "আবুল আসাদ",
       "cover": "https://cdn.jsdelivr.net/gh/sagor2315/saimum-assets/book_covers/book_cover16.webp",
       "book_json_data": "https://cdn.jsdelivr.net/gh/sagor2315/saimum-assets/json/books/moddho_asiar_kalomeg.json",
-      "category": "normal"
+      "category": "normal",
+      "total_chapters": "০৭"
     }
   ]
 }
