@@ -4,129 +4,128 @@
       "id": "saimum_01",
       "name": "অপারেশন তেলআবিব-১",
       "writer": "আবুল আসাদ",
-      "cover": "https://raw.githubusercontent.com/sagor2315/saimum-assets/refs/heads/main/book_covers/book_cover1%20copy.webp",
-      "book_json_data": "https://raw.githubusercontent.com/sagor2315/saimum-assets/refs/heads/main/json/books/Operation_telabib_full.json",
+      "cover": "https://cdn.jsdelivr.net/gh/sagor2315/saimum-assets/book_covers/book_cover1%20copy.webp",
+      "book_json_data": "https://cdn.jsdelivr.net/gh/sagor2315/saimum-assets/json/books/Operation_telabib_full.json",
       "category": "featured"
     },
     {
       "id": "saimum_02",
       "name": "অপারেশন তেলআবিব-২",
       "writer": "আবুল আসাদ",
-      "cover": "https://raw.githubusercontent.com/sagor2315/saimum-assets/refs/heads/main/book_covers/book_cover2.webp",
-      "book_json_data": "https://raw.githubusercontent.com/sagor2315/saimum-assets/refs/heads/main/json/books/operation_tel_abib2.json",
+      "cover": "https://cdn.jsdelivr.net/gh/sagor2315/saimum-assets/book_covers/book_cover2.webp",
+      "book_json_data": "https://cdn.jsdelivr.net/gh/sagor2315/saimum-assets/json/books/operation_tel_abib2.json",
       "category": "featured"
     },
     {
       "id": "saimum_03",
       "name": "মিন্দানাওয়ের বন্দী",
       "writer": "আবুল আসাদ",
-      "cover": "https://raw.githubusercontent.com/sagor2315/saimum-assets/refs/heads/main/book_covers/book_cover3.webp",
-      "book_json_data": "https://raw.githubusercontent.com/sagor2315/saimum-assets/refs/heads/main/json/books/mindanaoyer_bondi.json",
+      "cover": "https://cdn.jsdelivr.net/gh/sagor2315/saimum-assets/book_covers/book_cover3.webp",
+      "book_json_data": "https://cdn.jsdelivr.net/gh/sagor2315/saimum-assets/json/books/mindanaoyer_bondi.json",
       "category": "featured"
     },
     {
       "id": "saimum_04",
       "name": "পামিরের আর্তনাদ",
       "writer": "আবুল আসাদ",
-      "cover": "https://raw.githubusercontent.com/sagor2315/saimum-assets/refs/heads/main/book_covers/book_cover4.webp",
-      "book_json_data": "https://raw.githubusercontent.com/sagor2315/saimum-assets/refs/heads/main/json/books/pamirer_artonad.json",
+      "cover": "https://cdn.jsdelivr.net/gh/sagor2315/saimum-assets/book_covers/book_cover4.webp",
+      "book_json_data": "https://cdn.jsdelivr.net/gh/sagor2315/saimum-assets/json/books/pamirer_artonad.json",
       "category": "featured"
     },
     {
       "id": "saimum_05",
       "name": "রক্তাক্ত পামির",
       "writer": "আবুল আসাদ",
-      "cover": "https://raw.githubusercontent.com/sagor2315/saimum-assets/refs/heads/main/book_covers/book_cover5.webp",
-      "book_json_data": "https://raw.githubusercontent.com/sagor2315/saimum-assets/refs/heads/main/json/books/roktakto_pamir.json",
+      "cover": "https://cdn.jsdelivr.net/gh/sagor2315/saimum-assets/book_covers/book_cover5.webp",
+      "book_json_data": "https://cdn.jsdelivr.net/gh/sagor2315/saimum-assets/json/books/roktakto_pamir.json",
       "category": "featured"
     },
     {
       "id": "saimum_06",
       "name": "রক্ত সাগর পেরিয়ে",
       "writer": "আবুল আসাদ",
-      "cover": "https://raw.githubusercontent.com/sagor2315/saimum-assets/refs/heads/main/book_covers/book_cover6.webp",
-      "book_json_data": "https://raw.githubusercontent.com/sagor2315/saimum-assets/refs/heads/main/json/books/rokto_sagor_pariye.json",
+      "cover": "https://cdn.jsdelivr.net/gh/sagor2315/saimum-assets/book_covers/book_cover6.webp",
+      "book_json_data": "https://cdn.jsdelivr.net/gh/sagor2315/saimum-assets/json/books/rokto_sagor_pariye.json",
       "category": "featured"
     },
-
     {
       "id": "saimum_07",
       "name": "তিয়েন শানের ওপারে",
       "writer": "আবুল আসাদ",
-      "cover": "https://raw.githubusercontent.com/sagor2315/saimum-assets/refs/heads/main/book_covers/book_cover7.webp",
-      "book_json_data": "https://raw.githubusercontent.com/sagor2315/saimum-assets/refs/heads/main/json/books/tiyen_shaner_opare.json",
+      "cover": "https://cdn.jsdelivr.net/gh/sagor2315/saimum-assets/book_covers/book_cover7.webp",
+      "book_json_data": "https://cdn.jsdelivr.net/gh/sagor2315/saimum-assets/json/books/tiyen_shaner_opare.json",
       "category": "normal"
     },
     {
       "id": "saimum_08",
       "name": "সিংকিয়াং থেকে ককেশাস",
       "writer": "আবুল আসাদ",
-      "cover": "assets/covers/saimum_18.jpg",
-      "book_json_data": "https://raw.githubusercontent.com/sagor2315/saimum-assets/refs/heads/main/json/books/singkiyang_theke_kokeshak.json",
+      "cover": "https://cdn.jsdelivr.net/gh/sagor2315/saimum-assets/book_covers/book_cover8.webp",
+      "book_json_data": "https://cdn.jsdelivr.net/gh/sagor2315/saimum-assets/json/books/singkiyang_theke_kokeshak.json",
       "category": "normal"
     },
     {
       "id": "saimum_09",
       "name": "ককেশাসের পাহাড়ে",
       "writer": "আবুল আসাদ",
-      "cover": "https://raw.githubusercontent.com/sagor2315/saimum-assets/refs/heads/main/book_covers/book_cover8.webp",
-      "book_json_data": "https://raw.githubusercontent.com/sagor2315/saimum-assets/refs/heads/main/json/books/kokeshasher_pahare.json",
+      "cover": "https://cdn.jsdelivr.net/gh/sagor2315/saimum-assets/book_covers/book_cover9.webp",
+      "book_json_data": "https://cdn.jsdelivr.net/gh/sagor2315/saimum-assets/json/books/kokeshasher_pahare.json",
       "category": "normal"
     },
     {
       "id": "saimum_10",
       "name": "বলকানের কান্না",
       "writer": "আবুল আসাদ",
-      "cover": "https://raw.githubusercontent.com/sagor2315/saimum-assets/refs/heads/main/book_covers/book_cover10.webp",
-      "book_json_data": "https://raw.githubusercontent.com/sagor2315/saimum-assets/refs/heads/main/json/books/bolkaner_kanna.json",
+      "cover": "https://cdn.jsdelivr.net/gh/sagor2315/saimum-assets/book_covers/book_cover10.webp",
+      "book_json_data": "https://cdn.jsdelivr.net/gh/sagor2315/saimum-assets/json/books/bolkaner_kanna.json",
       "category": "normal"
     },
     {
       "id": "saimum_11",
       "name": "দানিয়ুবের দেশে",
       "writer": "আবুল আসাদ",
-      "cover": "https://raw.githubusercontent.com/sagor2315/saimum-assets/refs/heads/main/book_covers/book_cover11.webp",
-      "book_json_data": "https://raw.githubusercontent.com/sagor2315/saimum-assets/refs/heads/main/json/books/daniuber_deshe.json",
+      "cover": "https://cdn.jsdelivr.net/gh/sagor2315/saimum-assets/book_covers/book_cover11.webp",
+      "book_json_data": "https://cdn.jsdelivr.net/gh/sagor2315/saimum-assets/json/books/daniuber_deshe.json",
       "category": "normal"
     },
     {
       "id": "saimum_12",
       "name": "কর্ডোভার অশ্রু",
       "writer": "আবুল আসাদ",
-      "cover": "https://raw.githubusercontent.com/sagor2315/saimum-assets/refs/heads/main/book_covers/book_cover12.webp",
-      "book_json_data": "https://raw.githubusercontent.com/sagor2315/saimum-assets/refs/heads/main/json/books/kordovar_ochru.json",
+      "cover": "https://cdn.jsdelivr.net/gh/sagor2315/saimum-assets/book_covers/book_cover12.webp",
+      "book_json_data": "https://cdn.jsdelivr.net/gh/sagor2315/saimum-assets/json/books/kordovar_ochru.json",
       "category": "normal"
     },
     {
       "id": "saimum_13",
       "name": "আন্দালুসিয়ার প্রান্তরে",
       "writer": "আবুল আসাদ",
-      "cover": "https://raw.githubusercontent.com/sagor2315/saimum-assets/refs/heads/main/book_covers/book_cover13.webp",
-      "book_json_data": "https://raw.githubusercontent.com/sagor2315/saimum-assets/refs/heads/main/json/books/andaluchiyar_prantore.json",
+      "cover": "https://cdn.jsdelivr.net/gh/sagor2315/saimum-assets/book_covers/book_cover13.webp",
+      "book_json_data": "https://cdn.jsdelivr.net/gh/sagor2315/saimum-assets/json/books/andaluchiyar_prantore.json",
       "category": "normal"
     },
     {
       "id": "saimum_14",
       "name": "গোয়াদেলকুইভারে নতুন স্রোত",
       "writer": "আবুল আসাদ",
-      "cover": "https://raw.githubusercontent.com/sagor2315/saimum-assets/refs/heads/main/book_covers/book_cover14.webp",
-      "book_json_data": "https://raw.githubusercontent.com/sagor2315/saimum-assets/refs/heads/main/json/books/goyadelkuivare_notun_srot.json",
+      "cover": "https://cdn.jsdelivr.net/gh/sagor2315/saimum-assets/book_covers/book_cover14.webp",
+      "book_json_data": "https://cdn.jsdelivr.net/gh/sagor2315/saimum-assets/json/books/goyadelkuivare_notun_srot.json",
       "category": "normal"
     },
     {
       "id": "saimum_15",
       "name": "আবার সিংকিয়াং",
       "writer": "আবুল আসাদ",
-      "cover": "https://raw.githubusercontent.com/sagor2315/saimum-assets/refs/heads/main/book_covers/book_cover15.webp",
-      "book_json_data": "https://raw.githubusercontent.com/sagor2315/saimum-assets/refs/heads/main/json/books/abar_singkiyang.json",
+      "cover": "https://cdn.jsdelivr.net/gh/sagor2315/saimum-assets/book_covers/book_cover15.webp",
+      "book_json_data": "https://cdn.jsdelivr.net/gh/sagor2315/saimum-assets/json/books/abar_singkiyang.json",
       "category": "normal"
     },
     {
       "id": "saimum_16",
       "name": "মধ্য এশিয়ায় কালোমেঘ",
       "writer": "আবুল আসাদ",
-      "cover": "https://raw.githubusercontent.com/sagor2315/saimum-assets/refs/heads/main/book_covers/book_cover16.webp",
-      "book_json_data": "https://raw.githubusercontent.com/sagor2315/saimum-assets/refs/heads/main/json/books/moddho_asiar_kalomeg.json",
+      "cover": "https://cdn.jsdelivr.net/gh/sagor2315/saimum-assets/book_covers/book_cover16.webp",
+      "book_json_data": "https://cdn.jsdelivr.net/gh/sagor2315/saimum-assets/json/books/moddho_asiar_kalomeg.json",
       "category": "normal"
     }
   ]
